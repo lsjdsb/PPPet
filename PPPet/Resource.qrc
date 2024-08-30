@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/calligraphy.png</file>
+        <file>resources/PlayONE.png</file>
+        <file>resources/RemoveObject.png</file>
+        <file>resources/RopeSkipping.png</file>
+        <file>resources/Study.png</file>
+        <file>resources/StudyTWO.png</file>
+        <file>resources/Work0.png</file>
+        <file>resources/Work1.png</file>
+        <file>resources/Work2.png</file>
+        <file>resources/close.png</file>
+        <file>resources/cut.png</file>
+        <file>resources/open.png</file>
+    </qresource>
+</RCC>
